@@ -3,7 +3,7 @@
   <groupId>com.mycompany.app</groupId>
   <artifactId>my-app3</artifactId>
   <packaging>jar</packaging>
-  <version>4.1-SNAPSHOT</version>
+  <version>4.3-SNAPSHOT</version>
   <name>my-app</name>
   <url>http://maven.apache.org</url>
   <scm>
@@ -25,7 +25,7 @@
     <repository>
       <id>myRepoId</id>
       <name>myCompanyReporsitory</name>
-      <url>ftp://repository.mycompany.com/repository</url>
+      <url>http://localhost:8081/</url>
     </repository>
   </distributionManagement>
 </project>
