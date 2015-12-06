@@ -8,8 +8,8 @@
   <url>http://maven.apache.org</url>
   <scm>
 	<url>https://github.com/kieraf/playground.git</url>
-	<connection>scm:git:https://kieraf@github.com/kieraf/playground.git</connection>
-	<developerConnection>scm:git:https://kieraf@github.com/kieraf/playground.git</developerConnection>
+	<connection>scm:git:https://kieraf:qwerty4321@github.com/kieraf/playground.git</connection>
+	<developerConnection>scm:git:https://kieraf:qwerty4321@github.com/kieraf/playground.git</developerConnection>
     <tag>rel3</tag>
   </scm>
   <dependencies>
