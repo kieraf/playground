@@ -9,7 +9,7 @@
   <url>http://maven.apache.org</url>
   <scm>
 	<url>https://github.com/kieraf/playground.git</url>
-	<connection>scm:git:kieraf@github.com/kieraf/playground.gi</connection>
+	<connection>scm:git:kieraf@github.com/kieraf/playground.git</connection>
 	<developerConnection>scm:git:kieraf@github.com/kieraf/playground.git</developerConnection>
   </scm>
   <dependencies>
